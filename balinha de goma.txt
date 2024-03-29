@@ -1,0 +1,6 @@
+1.
+a) irá multiplicar o número do parâmetro pelo número 5
+b) nada
+2.
+a) determina se há um não a palavra cenoura em uma string
+b) true, true e true
